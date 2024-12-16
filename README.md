@@ -9,13 +9,13 @@
 
 ## Структура проекта
 .
-├── public/                 # Статические ресурсы
-├── src/
-│   ├── components/
-│   │   ├── MyForm.tsx      # Кастомная форма
-│   │   ├── CustomInput.tsx # Кастомное поле ввода с валидацией
-│   ├── App.tsx             # Основной компонент приложения
-│   ├── index.tsx           # Точка входа в приложение React
-├── package.json
-├── README.md               
-└── tsconfig.json           # Конфигурация TypeScript
+├── public/                 # Статические ресурсы   
+├── src/   
+│   ├── components/   
+│   │   ├── MyForm.tsx      # Кастомная форма   
+│   │   ├── CustomInput.tsx # Кастомное поле ввода с валидацией   
+│   ├── App.tsx             # Основной компонент приложения   
+│   ├── index.tsx           # Точка входа в приложение React   
+├── package.json   
+├── README.md                  
+└── tsconfig.json           # Конфигурация TypeScript   
